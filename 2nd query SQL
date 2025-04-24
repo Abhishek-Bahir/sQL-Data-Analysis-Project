@@ -1,0 +1,4 @@
+-- INNER JOIN example
+SELECT o.order_id, c.name, o.total_amount
+FROM orders o
+INNER JOIN customers c ON o.customer_id = c.customer_id;
