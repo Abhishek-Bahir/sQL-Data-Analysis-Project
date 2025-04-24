@@ -5,7 +5,7 @@
 Use SQL to analyze an eCommerce dataset.
 
 ## Tools:
-SQLite (or MySQL/PostgreSQL)
+ MySQL
 
 ## Tasks:
 - Select and filter data
@@ -15,8 +15,7 @@ SQLite (or MySQL/PostgreSQL)
 - Create views
 - Optimize with indexes
 
-## Output:
-Screenshots of each query and result are in the `screenshots/` folder.
+
 
 ## Author:
 Abhishek
